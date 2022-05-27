@@ -1,0 +1,15 @@
+C:\Users\nilva\OneDrive\Área de Trabalho\Nilvan\DIO\.NET\2º projeto\Aula 3\obj\Debug\net6.0\Aula 3.csproj.AssemblyReference.cache
+C:\Users\nilva\OneDrive\Área de Trabalho\Nilvan\DIO\.NET\2º projeto\Aula 3\obj\Debug\net6.0\Aula 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilva\OneDrive\Área de Trabalho\Nilvan\DIO\.NET\2º projeto\Aula 3\obj\Debug\net6.0\Aula 3.AssemblyInfoInputs.cache
+C:\Users\nilva\OneDrive\Área de Trabalho\Nilvan\DIO\.NET\2º projeto\Aula 3\obj\Debug\net6.0\Aula 3.AssemblyInfo.cs
+C:\Users\nilva\OneDrive\Área de Trabalho\Nilvan\DIO\.NET\2º projeto\Aula 3\obj\Debug\net6.0\Aula 3.csproj.CoreCompileInputs.cache
+C:\Users\nilva\OneDrive\Área de Trabalho\Nilvan\DIO\.NET\2º projeto\Aula 3\bin\Debug\net6.0\Aula 3.exe
+C:\Users\nilva\OneDrive\Área de Trabalho\Nilvan\DIO\.NET\2º projeto\Aula 3\bin\Debug\net6.0\Aula 3.deps.json
+C:\Users\nilva\OneDrive\Área de Trabalho\Nilvan\DIO\.NET\2º projeto\Aula 3\bin\Debug\net6.0\Aula 3.runtimeconfig.json
+C:\Users\nilva\OneDrive\Área de Trabalho\Nilvan\DIO\.NET\2º projeto\Aula 3\bin\Debug\net6.0\Aula 3.dll
+C:\Users\nilva\OneDrive\Área de Trabalho\Nilvan\DIO\.NET\2º projeto\Aula 3\bin\Debug\net6.0\Aula 3.pdb
+C:\Users\nilva\OneDrive\Área de Trabalho\Nilvan\DIO\.NET\2º projeto\Aula 3\obj\Debug\net6.0\Aula 3.dll
+C:\Users\nilva\OneDrive\Área de Trabalho\Nilvan\DIO\.NET\2º projeto\Aula 3\obj\Debug\net6.0\refint\Aula 3.dll
+C:\Users\nilva\OneDrive\Área de Trabalho\Nilvan\DIO\.NET\2º projeto\Aula 3\obj\Debug\net6.0\Aula 3.pdb
+C:\Users\nilva\OneDrive\Área de Trabalho\Nilvan\DIO\.NET\2º projeto\Aula 3\obj\Debug\net6.0\Aula 3.genruntimeconfig.cache
+C:\Users\nilva\OneDrive\Área de Trabalho\Nilvan\DIO\.NET\2º projeto\Aula 3\obj\Debug\net6.0\ref\Aula 3.dll
